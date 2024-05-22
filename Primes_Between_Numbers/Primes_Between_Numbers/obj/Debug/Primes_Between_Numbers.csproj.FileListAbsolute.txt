@@ -1,0 +1,7 @@
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\obj\Debug\Primes_Between_Numbers.csproj.AssemblyReference.cache
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\obj\Debug\Primes_Between_Numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\bin\Debug\Primes_Between_Numbers.exe.config
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\bin\Debug\Primes_Between_Numbers.exe
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\bin\Debug\Primes_Between_Numbers.pdb
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\obj\Debug\Primes_Between_Numbers.exe
+D:\CSharp\ConsoleApps\ConsoleApps\asal sayı bulma\Primes_Between_Numbers\Primes_Between_Numbers\obj\Debug\Primes_Between_Numbers.pdb

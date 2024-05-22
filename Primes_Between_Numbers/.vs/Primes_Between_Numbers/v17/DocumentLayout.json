@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D530C3-554A-4A70-8C64-ACC111BE9C07}|Primes_Between_Numbers\\Primes_Between_Numbers.csproj|d:\\csharp\\consoleapps\\consoleapps\\asal say\u0131 bulma\\primes_between_numbers\\primes_between_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D530C3-554A-4A70-8C64-ACC111BE9C07}|Primes_Between_Numbers\\Primes_Between_Numbers.csproj|solutionrelative:primes_between_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D530C3-554A-4A70-8C64-ACC111BE9C07}|Primes_Between_Numbers\\Primes_Between_Numbers.csproj|D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\primes_between_numbers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D530C3-554A-4A70-8C64-ACC111BE9C07}|Primes_Between_Numbers\\Primes_Between_Numbers.csproj|solutionrelative:primes_between_numbers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\Primes_Between_Numbers\\Class1.cs",
+              "RelativeDocumentMoniker": "Primes_Between_Numbers\\Class1.cs",
+              "ToolTip": "D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\Primes_Between_Numbers\\Class1.cs",
+              "RelativeToolTip": "Primes_Between_Numbers\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:54:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\Primes_Between_Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Primes_Between_Numbers\\Program.cs",
+              "ToolTip": "D:\\CSharp\\ConsoleApps\\ConsoleApps\\asal say\u0131 bulma\\Primes_Between_Numbers\\Primes_Between_Numbers\\Program.cs",
+              "RelativeToolTip": "Primes_Between_Numbers\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:34:57.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
